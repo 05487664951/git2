@@ -1,0 +1,27 @@
+git --version
+
+git init 
+
+git status
+
+git add .    ou ./e o nome do arquivo
+
+git commit -a -m "descrição do que foi feito"
+
+
+
+
+
+
+
+
+
+para aceitar o email
+
+Abra o terminal e cole
+git config --global user.email " voce@exemplo.com "
+pressione enter
+git config --global user.name "Seu nome"
+pressione enter
+
+Funcionou para mim...
